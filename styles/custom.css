@@ -1,4 +1,37 @@
+
+body{background: #FF4E50; 
+background: -webkit-linear-gradient(to bottom, #dc007e, #ee7483, #f39d78, yellow);
+background: linear-gradient(to bottom, #dc007e, #ee7483, #f39d78,yellow);
+color:#fadbe8;
+}
+
  .img-fluid{
      max-width: 100%;
-     height: auto;
+     height:auto;
  }
+ .card-header{
+     color:#fadbe8;
+ }
+ #accordion{
+     padding-bottom:100 px;
+ }
+.card{
+     background-color: transparent;
+ }
+.col-12{
+    border: 4px ;
+}
+.mb-0{
+    border: none;
+    color:  #fadbe8;
+}
+
+.col-12:first-of-type{
+    height:1300px;
+    display: inline-block;
+    position:relative;
+}
+.logo{
+    width: 100%;
+    margin-top: 280px;
+}
