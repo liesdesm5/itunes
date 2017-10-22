@@ -2,7 +2,8 @@
 body{
     color: #2B3030;
     margin:0;
-    background:-webkit-linear-gradient( #e6e6fa, #ffa07a)
+    background:-webkit-linear-gradient( #e6e6fa, #ffa07a);
+    font-family: 'Lato', sans-serif;
 }
 .album1 {
     padding:5%;
@@ -15,6 +16,7 @@ body{
 .album3 {
     padding:5%;
 }
+
 
 .btn{
     color: #2B3030;
@@ -32,14 +34,12 @@ li {
     display: block;
     width: 80%;
     margin:auto;
+    position:absolute;
 }
-.fixed-top{
-    background: #EBEBFF;
-    display:block;
+.jumbotron{
+    background: transparent;
+    height:700px;
 }
-h1 {
-    color: #fadbe8;
-    font-size: 2em;
-    text-align: center; 
-
+h2{
+    font-family: 'Raleway', sans-serif;
 }
