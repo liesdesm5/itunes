@@ -1,37 +1,25 @@
 
-body{background: #FF4E50; 
-background: -webkit-linear-gradient(to bottom, #dc007e, #ee7483, #f39d78, yellow);
-background: linear-gradient(to bottom, #dc007e, #ee7483, #f39d78,yellow);
-color:#fadbe8;
+body{
+    color: #2B3030;
+    margin:0;
+    background:-webkit-linear-gradient( #fffcdc,lavender, lightsalmon)
+}
+.album1 {
+    padding:5%;
+    margin-top:5%;
+}
+.album2 {
+    flex-direction: row-reverse;
+    padding:5%;
+}
+.album3 {
+    padding:5%;
 }
 
- .img-fluid{
-     max-width: 100%;
-     height:auto;
- }
- .card-header{
-     color:#fadbe8;
- }
- #accordion{
-     padding-bottom:100 px;
- }
-.card{
-     background-color: transparent;
- }
-.col-12{
-    border: 4px ;
-}
-.mb-0{
-    border: none;
-    color:  #fadbe8;
-}
-
-.col-12:first-of-type{
-    height:1300px;
-    display: inline-block;
-    position:relative;
-}
-.logo{
+.btn{
+    color: #2B3030;
+    border-color: #2B3030;
     width: 100%;
-    margin-top: 280px;
+    margin-top:2%;
 }
+e2e2e2 
