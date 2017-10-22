@@ -2,7 +2,7 @@
 body{
     color: #2B3030;
     margin:0;
-    background:-webkit-linear-gradient( lavender, lightsalmon)
+    background:-webkit-linear-gradient( #e6e6fa, #ffa07a)
 }
 .album1 {
     padding:5%;
@@ -34,11 +34,12 @@ li {
     margin:auto;
 }
 .fixed-top{
-    background: white;
+    background: #EBEBFF;
     display:block;
 }
 h1 {
     color: #fadbe8;
     font-size: 2em;
     text-align: center; 
+
 }
