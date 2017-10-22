@@ -44,14 +44,14 @@ h2{
     font-family: 'Raleway', sans-serif;
     margin-top:15px;
 }
-@media screen and (max-width: 480px) {
+@media screen and (max-width: 700px) {
 .golf{
     display: block;
     width: 80%;
     margin:auto;
     position:absolute;
-    margin-top: 350px
+    margin-top: 450px
 } 
 .jumbotron{
-    height:800 px;
+    height:1000 px;
 }
