@@ -38,18 +38,20 @@ li {
 }
 .jumbotron{
     background: transparent;
-    height:700px;
+    height:600px;
 }
 h2{
     font-family: 'Raleway', sans-serif;
     margin-top:15px;
 }
-@media screen and (max-width: 700px) {
+@media screen and (max-width: 480px) {
 .golf{
     display: block;
     width: 80%;
     margin:auto;
     position:absolute;
-    margin-top: 200px;
+    margin-top: 350px
 } 
+.jumbotron{
+    height:800 px;
 }
